@@ -1,0 +1,178 @@
+2025-04-16 20:13:44.665 MSK [37151] LOG:  starting PostgreSQL 17.4 (Homebrew) on aarch64-apple-darwin24.2.0, compiled by Apple clang version 16.0.0 (clang-1600.0.26.6), 64-bit
+2025-04-16 20:13:44.668 MSK [37151] LOG:  listening on IPv6 address "::1", port 5432
+2025-04-16 20:13:44.668 MSK [37151] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-04-16 20:13:44.668 MSK [37151] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-04-16 20:13:44.670 MSK [37154] LOG:  database system was shut down at 2025-04-16 20:13:35 MSK
+2025-04-16 20:13:44.672 MSK [37151] LOG:  database system is ready to accept connections
+2025-04-16 20:13:49.392 MSK [37293] FATAL:  database "darx" does not exist
+2025-04-16 20:13:49.431 MSK [37305] FATAL:  database "darx" does not exist
+2025-04-16 20:13:49.465 MSK [37317] FATAL:  database "darx" does not exist
+2025-04-16 20:13:49.497 MSK [37329] FATAL:  database "darx" does not exist
+2025-04-16 20:13:49.531 MSK [37341] FATAL:  database "darx" does not exist
+2025-04-16 20:13:49.564 MSK [37353] FATAL:  database "darx" does not exist
+2025-04-16 20:13:49.596 MSK [37365] FATAL:  database "darx" does not exist
+2025-04-16 20:13:49.627 MSK [37377] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.453 MSK [37887] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.492 MSK [37900] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.525 MSK [37912] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.554 MSK [37933] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.557 MSK [37937] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.588 MSK [37969] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.588 MSK [37970] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.628 MSK [37994] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.628 MSK [37995] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.664 MSK [38021] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.664 MSK [38023] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.681 MSK [38039] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.699 MSK [38057] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.699 MSK [38058] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.715 MSK [38075] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.734 MSK [38091] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.749 MSK [38102] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.767 MSK [38117] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.782 MSK [38132] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.796 MSK [38147] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.801 MSK [38154] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.816 MSK [38167] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.831 MSK [38180] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.858 MSK [38198] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.868 MSK [38204] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.892 MSK [38222] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.902 MSK [38233] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.918 MSK [38249] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.927 MSK [38260] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.937 MSK [38269] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.952 MSK [38281] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.975 MSK [38300] FATAL:  database "darx" does not exist
+2025-04-16 20:15:01.986 MSK [38306] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.008 MSK [38324] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.019 MSK [38334] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.035 MSK [38352] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.041 MSK [38360] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.054 MSK [38371] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.069 MSK [38383] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.087 MSK [38398] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.101 MSK [38409] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.119 MSK [38424] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.134 MSK [38434] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.151 MSK [38447] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.165 MSK [38458] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.198 MSK [38472] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.229 MSK [38484] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.261 MSK [38496] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.633 MSK [38515] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.668 MSK [38527] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.701 MSK [38539] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.732 MSK [38551] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.763 MSK [38563] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.794 MSK [38575] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.825 MSK [38587] FATAL:  database "darx" does not exist
+2025-04-16 20:15:02.856 MSK [38599] FATAL:  database "darx" does not exist
+2025-04-16 20:18:44.673 MSK [37152] LOG:  checkpoint starting: time
+2025-04-16 20:19:14.111 MSK [41948] FATAL:  role "postgres" does not exist
+2025-04-16 20:20:20.864 MSK [42527] FATAL:  database "darx" does not exist
+2025-04-16 20:20:20.902 MSK [42540] FATAL:  database "darx" does not exist
+2025-04-16 20:20:20.933 MSK [42550] FATAL:  database "darx" does not exist
+2025-04-16 20:20:20.963 MSK [42560] FATAL:  database "darx" does not exist
+2025-04-16 20:20:20.994 MSK [42570] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.090 MSK [42589] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.127 MSK [42602] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.160 MSK [42612] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.190 MSK [42622] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.221 MSK [42632] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.261 MSK [42649] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.300 MSK [42662] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.333 MSK [42672] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.367 MSK [42682] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.398 MSK [42692] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.434 MSK [42702] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.466 MSK [42712] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.811 MSK [42729] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.851 MSK [42744] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.884 MSK [42754] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.914 MSK [42764] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.945 MSK [42775] FATAL:  database "darx" does not exist
+2025-04-16 20:20:21.978 MSK [42785] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.012 MSK [42795] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.055 MSK [42824] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.092 MSK [42837] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.123 MSK [42847] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.153 MSK [42857] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.183 MSK [42867] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.215 MSK [42877] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.247 MSK [42887] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.279 MSK [42897] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.312 MSK [42907] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.359 MSK [42924] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.402 MSK [42940] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.434 MSK [42951] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.466 MSK [42961] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.497 MSK [42971] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.528 MSK [42981] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.561 MSK [42991] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.591 MSK [43001] FATAL:  database "darx" does not exist
+2025-04-16 20:20:22.626 MSK [43011] FATAL:  database "darx" does not exist
+2025-04-16 20:20:25.256 MSK [37152] LOG:  checkpoint complete: wrote 989 buffers (6.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=100.562 s, sync=0.015 s, total=100.584 s; sync files=310, longest=0.001 s, average=0.001 s; distance=4657 kB, estimate=4657 kB; lsn=0/1998648, redo lsn=0/19985B8
+2025-04-16 20:21:32.901 MSK [43621] FATAL:  database "bookstore" does not exist
+2025-04-16 20:21:39.198 MSK [43670] FATAL:  database "bookstore" does not exist
+2025-04-16 20:21:42.354 MSK [43683] FATAL:  database "bookstore" does not exist
+2025-04-16 20:22:25.495 MSK [43952] FATAL:  database "bookstore" does not exist
+2025-04-16 20:23:44.260 MSK [37152] LOG:  checkpoint starting: time
+2025-04-16 20:23:57.427 MSK [37152] LOG:  checkpoint complete: wrote 129 buffers (0.8%); 0 WAL file(s) added, 0 removed, 0 recycled; write=13.136 s, sync=0.026 s, total=13.167 s; sync files=73, longest=0.007 s, average=0.001 s; distance=373 kB, estimate=4229 kB; lsn=0/19F5DD8, redo lsn=0/19F5D48
+2025-04-16 20:24:41.599 MSK [44824] ERROR:  relation "actors" does not exist at character 15
+2025-04-16 20:24:41.599 MSK [44824] STATEMENT:  SELECT * FROM actors
+2025-04-16 20:25:03.082 MSK [44940] ERROR:  relation "actors" does not exist at character 15
+2025-04-16 20:25:03.082 MSK [44940] STATEMENT:  SELECT * FROM actors
+2025-04-16 20:25:07.247 MSK [44940] ERROR:  relation "public.actors" does not exist at character 15
+2025-04-16 20:25:07.247 MSK [44940] STATEMENT:  SELECT * FROM public.actors
+2025-04-16 20:43:17.978 MSK [52345] ERROR:  cannot drop type actortypes because other objects depend on it
+2025-04-16 20:43:17.978 MSK [52345] DETAIL:  column type of table actor depends on type actortypes
+2025-04-16 20:43:17.978 MSK [52345] HINT:  Use DROP ... CASCADE to drop the dependent objects too.
+2025-04-16 20:43:17.978 MSK [52345] STATEMENT:  DROP TYPE actortypes
+2025-04-16 20:43:44.263 MSK [37152] LOG:  checkpoint starting: time
+2025-04-16 20:43:44.580 MSK [37152] LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.308 s, sync=0.002 s, total=0.319 s; sync files=3, longest=0.002 s, average=0.001 s; distance=0 kB, estimate=3806 kB; lsn=0/19F5F70, redo lsn=0/19F5F18
+2025-04-16 20:45:39.195 MSK [53513] ERROR:  cannot drop type corpuscategory because other objects depend on it
+2025-04-16 20:45:39.195 MSK [53513] DETAIL:  column category of table corpus depends on type corpuscategory
+2025-04-16 20:45:39.195 MSK [53513] HINT:  Use DROP ... CASCADE to drop the dependent objects too.
+2025-04-16 20:45:39.195 MSK [53513] STATEMENT:  DROP TYPE corpuscategory
+2025-04-16 20:48:44.574 MSK [37152] LOG:  checkpoint starting: time
+2025-04-16 20:48:45.116 MSK [54835] ERROR:  cannot drop type actortypes because other objects depend on it
+2025-04-16 20:48:45.116 MSK [54835] DETAIL:  column type of table actor depends on type actortypes
+2025-04-16 20:48:45.116 MSK [54835] HINT:  Use DROP ... CASCADE to drop the dependent objects too.
+2025-04-16 20:48:45.116 MSK [54835] STATEMENT:  DROP TYPE actortypes
+2025-04-16 20:48:46.322 MSK [37152] LOG:  checkpoint complete: wrote 18 buffers (0.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=1.732 s, sync=0.003 s, total=1.749 s; sync files=10, longest=0.001 s, average=0.001 s; distance=124 kB, estimate=3438 kB; lsn=0/1A16F10, redo lsn=0/1A14F18
+2025-04-16 20:56:43.126 MSK [44940] ERROR:  missing FROM-clause entry for table "parameters" at character 8
+2025-04-16 20:56:43.126 MSK [44940] STATEMENT:  SELECT parameters.json_scalar FROM actors WHERE name NOT LIKE 'Qwen%'
+2025-04-16 20:58:44.309 MSK [37152] LOG:  checkpoint starting: time
+2025-04-16 20:58:55.981 MSK [37152] LOG:  checkpoint complete: wrote 115 buffers (0.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=11.648 s, sync=0.013 s, total=11.673 s; sync files=67, longest=0.004 s, average=0.001 s; distance=550 kB, estimate=3149 kB; lsn=0/1A9EB60, redo lsn=0/1A9EAD0
+2025-04-16 21:03:45.119 MSK [37152] LOG:  checkpoint starting: time
+2025-04-16 21:03:56.477 MSK [37152] LOG:  checkpoint complete: wrote 112 buffers (0.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=11.344 s, sync=0.004 s, total=11.359 s; sync files=65, longest=0.001 s, average=0.001 s; distance=539 kB, estimate=2888 kB; lsn=0/1B25770, redo lsn=0/1B256E0
+2025-04-16 21:08:45.482 MSK [37152] LOG:  checkpoint starting: time
+2025-04-16 21:08:55.819 MSK [37152] LOG:  checkpoint complete: wrote 102 buffers (0.6%); 0 WAL file(s) added, 0 removed, 0 recycled; write=10.313 s, sync=0.013 s, total=10.338 s; sync files=62, longest=0.003 s, average=0.001 s; distance=471 kB, estimate=2646 kB; lsn=0/1BBCA60, redo lsn=0/1B9B598
+2025-04-16 21:13:45.821 MSK [37152] LOG:  checkpoint starting: time
+2025-04-16 21:13:50.628 MSK [37152] LOG:  checkpoint complete: wrote 48 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=4.795 s, sync=0.002 s, total=4.808 s; sync files=13, longest=0.001 s, average=0.001 s; distance=226 kB, estimate=2404 kB; lsn=0/1BD4018, redo lsn=0/1BD3FA8
+2025-04-16 21:18:45.630 MSK [37152] LOG:  checkpoint starting: time
+2025-04-16 21:18:56.549 MSK [37152] LOG:  checkpoint complete: wrote 107 buffers (0.7%); 1 WAL file(s) added, 0 removed, 0 recycled; write=10.878 s, sync=0.013 s, total=10.920 s; sync files=66, longest=0.005 s, average=0.001 s; distance=512 kB, estimate=2215 kB; lsn=0/1C54240, redo lsn=0/1C541B0
+2025-04-16 22:52:05.117 MSK [37152] LOG:  checkpoint starting: time
+2025-04-16 22:52:05.552 MSK [37152] LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.422 s, sync=0.004 s, total=0.437 s; sync files=2, longest=0.003 s, average=0.002 s; distance=6 kB, estimate=1994 kB; lsn=0/1C55C50, redo lsn=0/1C55BF8
+2025-04-16 22:57:05.554 MSK [37152] LOG:  checkpoint starting: time
+2025-04-16 22:57:22.069 MSK [37152] LOG:  checkpoint complete: wrote 163 buffers (1.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=16.487 s, sync=0.011 s, total=16.516 s; sync files=103, longest=0.002 s, average=0.001 s; distance=933 kB, estimate=1888 kB; lsn=0/1D3F420, redo lsn=0/1D3F390
+2025-04-16 23:02:05.072 MSK [37152] LOG:  checkpoint starting: time
+2025-04-16 23:02:08.247 MSK [37152] LOG:  checkpoint complete: wrote 31 buffers (0.2%); 0 WAL file(s) added, 0 removed, 0 recycled; write=3.171 s, sync=0.001 s, total=3.176 s; sync files=5, longest=0.001 s, average=0.001 s; distance=96 kB, estimate=1709 kB; lsn=0/1D57720, redo lsn=0/1D57690
+2025-04-16 23:15:02.886 MSK [1674] ERROR:  syntax error at or near "$" at character 1
+2025-04-16 23:15:02.886 MSK [1674] STATEMENT:  $connection_string
+	
+	SELECT d.uid, d.text, l.value AS label
+	FROM documents d
+	         INNER JOIN corpora c on c.uid = d.corpus_uid
+	         INNER JOIN document_label_assignments dla ON d.uid = dla.document_uid
+	         INNER JOIN labels l ON dla.label_uid = l.uid
+	         INNER JOIN actors aa ON dla.assigner_uid = aa.uid
+	         INNER JOIN labelsets ls ON l.label_set_uid = ls.uid
+	         INNER JOIN actors sa ON ls.suggester_uid = sa.uid
+	WHERE aa.type = 'HUMAN'
+	  AND sa.type = 'HUMAN'
+	  AND c.category = 'TRAINING'
+	ORDER BY d.uid;
+2025-04-16 23:27:05.264 MSK [37152] LOG:  checkpoint starting: time
+2025-04-16 23:27:07.096 MSK [37152] LOG:  checkpoint complete: wrote 19 buffers (0.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=1.825 s, sync=0.004 s, total=1.833 s; sync files=19, longest=0.002 s, average=0.001 s; distance=32 kB, estimate=1541 kB; lsn=0/1D5F858, redo lsn=0/1D5F7C8
